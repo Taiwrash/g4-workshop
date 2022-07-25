@@ -1,41 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to the beginner to intermediate workshop on Getting Good at Git and GitHub (G4)
 
-You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to start contributing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to **open source**, enterprises and personal projects.
 
-### Markdown
+### Our Goal!
+> We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to open **source**, enterprises and personal projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is also a simplified form of the [documentations]() to be taking in max seven (7) days by taking a single module in a day or even in lesser days
 
-```bash
-Syntax highlighted code block
+### Navigation guides
 
-# Header 1
-## Header 2
-### Header 3
+This projects focused on the below seven sub-sections and contain exercises at the end of every modules.
 
-- Bulleted
-- List
+1.  [Basic Linux Commands](/beginner-intermediate/0-basic-linux-commands.md)
+2.  [Introduction to Git](/beginner-intermediate/1-intro-to-git.md)
+3.  [Basic Git Commands](/beginner-intermediate/2-basic-git-commands.md)
+4.  [Git Source Control in VSCode](/beginner-intermediate/3-git-in-vscode.md)
+5.  [GitHub](/beginner-intermediate/4-github.md)
+6.  [GitHub Tabs](/beginner-intermediate/5-github-tabs.md)
+7.  [MDX and Conclusion](/beginner-intermediate/6-conclusion.md)
 
-1. Numbered
-2. List
+### Recommendations
 
-**Bold** and _Italic_ and `Code` text
+Participants are advice to take there to understands each modules before moving to the next modules.
 
-[Link](url) and ![Image](src)
-```
+### Note to everyone
 
-##  Navigate here
-1.  [Beginner to Intermediate](/docs/beginner-intermediate/)
-2.  [Introduction to Git](/docs/advance/)
+> This is an open source projects, feel free to create issues and make pull request to improve the quality and help somebody to learn
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Author Socials
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Taiwrash/g4-workshop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-   [GitHub @Taiwrash](https://github.com/Taiwrash)
+-   [Twitter @Ibn_mudathir](https://twitter.com/Ibn_mudathir)
+-   [Linkedin @Rasheed Mudasiru](https://linkedin.com/in/rasheedtaiwo)
