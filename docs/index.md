@@ -27,8 +27,8 @@ Syntax highlighted code block
 ```
 
 ##  Navigate here
-1.  [Beginner to Intermediate](/beginner-intermediate/)
-2.  [Introduction to Git](/advance/)
+1.  [Beginner to Intermediate](/docs/beginner-intermediate/)
+2.  [Introduction to Git](/docs/advance/)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
