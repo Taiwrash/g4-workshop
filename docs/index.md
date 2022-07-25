@@ -1,4 +1,6 @@
-## Welcome to the beginner to intermediate workshop on Getting Good at Git and GitHub (G4)
+# Welcome GitHub for Summit Workshop
+
+##  Welcome to the beginner to intermediate workshop on Getting Good at Git and GitHub (G4)
 
 You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to start contributing.
 
