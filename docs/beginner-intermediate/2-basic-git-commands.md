@@ -58,6 +58,8 @@
      ```bash
         git commit -m <message>
     ```
+
+8.  ```git add remote```
     
 
 
