@@ -114,28 +114,16 @@
     ```bash
         git merge
     ```
-    
+
+> Pro tips: ```.gitignore``` is a file that contain what is mearnt to not be tracking by git
 
 
+### Exercise
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-   Move into the University folder created in previous module
+-   Initialize a git a repository
+-   Open <about-my-school.txt> file and added 5 things about your school and save
+-   Add the  file to index
+-   Make a final commit
 
 [<< Previous Module](/beginner-intermediate/1-intro-to-git.md)<========================================================>[Next Module >>](/beginner-intermediate/3-git-in-vscode.md)
