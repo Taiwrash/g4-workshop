@@ -35,9 +35,9 @@ We will be using the [magic link](https://education.github.com/discount_requests
 
 > Quick notice: Don't initialise README (leave the button uncheck)
 
-### Connecting Local Repo to GitHub Repo
+### Connect Local Repo to GitHub Repo
 
 -   Follow the instruction after creating a repo without initializing README
 
->   Finally, after running on the commands refresh your GitHub browser
+>   Finally, after running all the commands refresh your GitHub browser
 
