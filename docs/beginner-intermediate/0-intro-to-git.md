@@ -8,7 +8,7 @@
 
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. - [Git Website](https://git-scm.com/)
 
-![Branch Tree]()
+![Branch Tree](./vscode-pack/branch.png)
 
 ### What is version control system
 
@@ -37,4 +37,5 @@
 
 -   Step 4: By now, your machine will be up and running to communicate with Git and GitHub.
 
-[<< Previous Module](/beginner-intermediate/0-basic-linux-commands.md)<========================================================>[Next Module >>](/beginner-intermediate/2-basic-git-commands.md)
+
+[Next Module >>](/docs/beginner-intermediate/1-basic-linux-commands.md)

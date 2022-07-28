@@ -5,14 +5,16 @@
     > Let's make some noise!
     -   Hashtags: #githubforsummit22, @GitHubEducation @GitHub @Ibn_mudathir #SUNO
 ```
->  In this module, participants will be able to setup there GitHub account, create a repository and connect the local repository with the newly created repository and redeem their [**GITHUB STUDENT DEVELOPERS PACKS**]()
+>  In this module, participants will be able to setup there GitHub account, create a repository and connect the local repository with the newly created repository and redeem their [**GITHUB STUDENT DEVELOPERS PACKS**](https://education.github.com/discount_requests/student_application?utm_source=2022-07-30-GITHUBFORSUMMIT)
 
 ###  What is GitHub
 >   According to the wikipedia page, GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.
 
 ### Why GitHub
 
-[GitHub in 3-Minutes]()
+>  Learn how to start building, shipping, and maintaining software with GitHub. Explore our products, sign up for an account, and connect with the world's largest development community.
+
+[GitHub in 3-Minutes](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 You've collaborated locally with your team on a single network. It is time to decentralise your team across the globe. Collaboration can only be done over internet. GitHub helps integrates the experience in Git on the internet. Remote work are possible for software engineers and their team through the help of source code management system like GitHub.
 
 ### Creating Account
@@ -35,9 +37,15 @@ We will be using the [magic link](https://education.github.com/discount_requests
 
 > Quick notice: Don't initialise README (leave the button uncheck)
 
+![Creation Stage](./vscode-pack/repo-create.png)
+
 ### Connect Local Repo to GitHub Repo
 
 -   Follow the instruction after creating a repo without initializing README
 
+    ![Connection Instruction](./vscode-pack/repo-connect.png)
+
 >   Finally, after running all the commands refresh your GitHub browser
 
+
+[<< Previous Module](/docs/beginner-intermediate/2-basic-git-commands.md)<============================>[Next Module >>](/docs/beginner-intermediate/4-git-in-vscode.md)

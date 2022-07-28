@@ -1,6 +1,7 @@
-# Welcome to GitHub for Summit Workshop
+# Welcome to the beginner to intermediate workshop on Getting Good at Git and GitHub (G4)
 
-##  Welcome to the beginner to intermediate workshop on Getting Good at Git and GitHub (G4)
+
+##  Welcome to GitHub for Summit Workshop
 
 You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to start contributing.
 
@@ -10,6 +11,14 @@ You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/
 > We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to open **source**, enterprises and personal projects.
 
 This is also a simplified form of the [documentations]() to be taking in max of seven (7) days by taking a single module in a day.
+
+# WHOAMI
+
+![ABOUT RASHEED](./beginner-intermediate/vscode-pack/rasheed.png)
+
+## GitHub Student Programs
+
+[Student Opportunities Slide by RASHEED(@Taiwrash)](https://docs.google.com/presentation/d/1LpfZylx1ZFlzrFec-i-yvgjd5H-YnxASrWH1vDCxkq8/edit?usp=sharing)
 
 ### Navigation guides
 

@@ -126,4 +126,4 @@
 -   Add the  file to index
 -   Make a final commit
 
-[<< Previous Module](/beginner-intermediate/1-intro-to-git.md)<========================================================>[Next Module >>](/beginner-intermediate/3-git-in-vscode.md)
+[<< Previous Module](/docs/beginner-intermediate/1-basic-linux-commands.md)<============================>[Next Module >>](/docs/beginner-intermediate/3-github.md)

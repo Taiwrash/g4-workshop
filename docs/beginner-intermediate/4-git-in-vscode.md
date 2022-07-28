@@ -12,20 +12,31 @@ This is an IDE for editing files, most time source code. **Code editing. Redefin
 
 2.  Follow the wizard to complete installation and launch after installation.
 
-3.  At the left most side,there will be a sidebar like this ![VS Code Sidebar](./vscode-pack/vscode-1.png)
+3.  VS Code quick walk through 
 
-4.  Locate the tab circle in red colour ![source control](./vscode-pack/vscode-2.png)
+    ![Welcome Page](./vscode-pack//welcome.png)
 
-5.  To add to index, commit, pull and push to GitHub. Click on the icon located in step 4 above
+4.  At the left most side,there will be a sidebar like this 
 
-6.  Click on the icon with green circle to stage or **add** a file to the index
+    ![VS Code Sidebar](./vscode-pack/vscode-1.PNG)
 
-7.  Click on the icon with red circle to **commit** changes
+5.  Locate the tab circle in red colour 
+   
+   ![source control](./vscode-pack/vscode-2.PNG)
 
-8.  Click on the icon with blue circle to see more action to pull, push, add remote and others
-![Step6,7,8 Illustration](./vscode-pack/vscode-3.png)
+6.  To add to index, commit, pull and push to GitHub. Click on the icon located in step 4 above
 
-9.  [More Actions](./vscode-pack/vscode-4.png)
+7.  Click on the icon with green circle to stage or **add** a file to the index
+
+8.  Click on the icon with red circle to **commit** changes
+
+9.  Click on the icon with blue circle to see more action to pull, push, add remote and others
+
+    ![Step6,7,8 Illustration](./vscode-pack/vscode-3.png)
+
+9.  Other Actions
+
+    ![More Actions](./vscode-pack/vscode-4.png)
 
 ### Exercise
 
@@ -33,3 +44,5 @@ This is an IDE for editing files, most time source code. **Code editing. Redefin
 -   Create a new file and add anything inside
 -   Create a GitHub repository
 -   Use VS Code source control to push to GitHub
+
+[<< Previous Module](/docs/beginner-intermediate/3-github.md)<============================>[Next Module >>](/docs/beginner-intermediate/5-github-tabs.md)
