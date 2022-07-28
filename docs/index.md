@@ -15,13 +15,13 @@ This is also a simplified form of the [documentations]() to be taking in max of 
 
 This projects focused on the below seven sub-sections and contain exercises at the end of every modules.
 
-1.  [Basic Linux Commands](/beginner-intermediate/0-basic-linux-commands.md)
-2.  [Introduction to Git](/beginner-intermediate/1-intro-to-git.md)
+1.  [Introduction to Git](/beginner-intermediate/0-intro-to-git.md)
+2.  [Basic Linux Commands](/beginner-intermediate/1-basic-linux-commands.md)
 3.  [Basic Git Commands](/beginner-intermediate/2-basic-git-commands.md)
-4.  [Git Source Control in VSCode](/beginner-intermediate/3-git-in-vscode.md)
-5.  [GitHub](/beginner-intermediate/4-github.md)
+4.  [GitHub](/beginner-intermediate/3-github.md)
+5.  [Git Source Control in VSCode](/beginner-intermediate/4-git-in-vscode.md) 
 6.  [GitHub Tabs](/beginner-intermediate/5-github-tabs.md)
-7.  [MDX and Conclusion](/beginner-intermediate/6-conclusion.md)
+7.  [MDX and Conclusion](/beginner-intermediate/6-mdx-conclusion.md)
 
 ### Recommendations
 
