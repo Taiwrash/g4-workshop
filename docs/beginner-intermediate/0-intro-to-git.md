@@ -38,4 +38,4 @@
 -   Step 4: By now, your machine will be up and running to communicate with Git and GitHub.
 
 
-[Next Module >>](/1-basic-linux-commands.md)
+[Next Module >>](1-basic-linux-commands.md)

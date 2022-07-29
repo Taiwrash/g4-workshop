@@ -136,5 +136,5 @@ Below are some of the comamnds that are acceptable and used to carry out certain
 
 >   Pro tips: If you get back what you wrote in step 3, congratulations you've completed the task but if no.Try again! 
 
-[<< Previous Module](/0-intro-to-git.md)<============================>[Next Module >>](/2-basic-git-commands.md)
+[<< Previous Module](0-intro-to-git.md)<============================>[Next Module >>](2-basic-git-commands.md)
 

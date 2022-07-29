@@ -45,4 +45,4 @@ This is an IDE for editing files, most time source code. **Code editing. Redefin
 -   Create a GitHub repository
 -   Use VS Code source control to push to GitHub
 
-[<< Previous Module](/3-github.md)<============================>[Next Module >>](/5-github-tabs.md)
+[<< Previous Module](3-github.md)<============================>[Next Module >>](5-github-tabs.md)
