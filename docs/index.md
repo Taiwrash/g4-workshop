@@ -1,4 +1,4 @@
-# Welcome to the beginner to intermediate workshop on Getting Good at Git and GitHub (G4)
+#   Getting Good at Git and GitHub (G4)
 
 
 ##  Welcome to GitHub for Summit Workshop
