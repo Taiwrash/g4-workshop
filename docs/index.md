@@ -3,6 +3,8 @@
 
 ##  Welcome to GitHub for Summit Workshop
 
+![Flyer](/docs/beginner-intermediate/vscode-pack/flyer.png)
+
 You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to start contributing.
 
  We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to **open source**, enterprises and personal projects.
