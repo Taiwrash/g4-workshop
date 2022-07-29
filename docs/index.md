@@ -3,7 +3,7 @@
 
 ##  Welcome to GitHub for Summit Workshop
 
-![Flyer](/docs/beginner-intermediate/vscode-pack/flyer.png)
+![Flyer](./beginner-intermediate/vscode-pack/flyer.png)
 
 You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to start contributing.
 
