@@ -48,4 +48,4 @@ We will be using the [magic link](https://education.github.com/discount_requests
 >   Finally, after running all the commands refresh your GitHub browser
 
 
-[<< Previous Module](/beginner-intermediate/2-basic-git-commands.md)<============================>[Next Module >>](/beginner-intermediate/4-git-in-vscode.md)
+[<< Previous Module](/2-basic-git-commands.md)<============================>[Next Module >>](/4-git-in-vscode.md)

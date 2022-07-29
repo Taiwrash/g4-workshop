@@ -126,4 +126,4 @@
 -   Add the  file to index
 -   Make a final commit
 
-[<< Previous Module](/beginner-intermediate/1-basic-linux-commands.md)<============================>[Next Module >>](/beginner-intermediate/3-github.md)
+[<< Previous Module](/1-basic-linux-commands.md)<============================>[Next Module >>](/3-github.md)

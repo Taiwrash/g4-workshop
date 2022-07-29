@@ -152,4 +152,4 @@ This project wish to take you far than this but with the little you've learnt. Y
 
 ![Congratulations](./vscode-pack/congrats.gif)
 
-[<< Previous Module](/beginner-intermediate/5-github-tabs.md)
+[<< Previous Module](/5-github-tabs.md)

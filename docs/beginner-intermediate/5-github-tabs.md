@@ -60,4 +60,4 @@
 3.  Click setting tab and locate delete button to delete the repository
 
 
-[<< Previous Module](/beginner-intermediate/4-git-in-vscode.md)<============================>[Next Module >>](/beginner-intermediate/6-mdx-conclusion.md)
+[<< Previous Module](/4-git-in-vscode.md)<============================>[Next Module >>](/6-mdx-conclusion.md)
