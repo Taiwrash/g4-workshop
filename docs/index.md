@@ -18,6 +18,9 @@ This is also a simplified form of the [documentations]() to be taking in max of 
 
 ![ABOUT RASHEED](./beginner-intermediate/vscode-pack/rasheed.png)
 
+
+![Muhammad](./beginner-intermediate/vscode-pack/muh.jpg)
+
 ## GitHub Student Programs
 
 [Student Opportunities Slide by RASHEED(@Taiwrash)](https://docs.google.com/presentation/d/1LpfZylx1ZFlzrFec-i-yvgjd5H-YnxASrWH1vDCxkq8/edit?usp=sharing)
