@@ -124,7 +124,7 @@ This project wish to take you far than this but with the little you've learnt. Y
 
 ### Final Exercise
 
-- Fork this repository [G4 Capstone]() from GitHub
+- Fork this repository [G4 Capstone](https://github.com/Taiwrash/g4-capstone.git) from GitHub
 - Clone it by copying the https link and use git clone command in your git bash
 - Open it in VS Code.
 - Create a file with your name e.g ```rasheed-mudasiru.md```

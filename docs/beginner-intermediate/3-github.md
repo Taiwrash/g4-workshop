@@ -15,6 +15,7 @@
 >  Learn how to start building, shipping, and maintaining software with GitHub. Explore our products, sign up for an account, and connect with the world's largest development community.
 
 [GitHub in 3-Minutes](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
 You've collaborated locally with your team on a single network. It is time to decentralise your team across the globe. Collaboration can only be done over internet. GitHub helps integrates the experience in Git on the internet. Remote work are possible for software engineers and their team through the help of source code management system like GitHub.
 
 ### Creating Account
@@ -33,7 +34,7 @@ We will be using the [magic link](https://education.github.com/discount_requests
 
 ### Creating a GitHub Repository
 
--   [Simple Steps]()
+-   [Simple Steps](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 
 > Quick notice: Don't initialise README (leave the button uncheck)
 
