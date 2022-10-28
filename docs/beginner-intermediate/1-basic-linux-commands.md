@@ -1,12 +1,12 @@
-## Basic Linux Commands
+## Basic Linux Commands 🧭
 
->   In this module, we will learn about seven (7) Linux commands to fast track Git learning curve. This is not compulsory but recommended mostly for Windows or other platforms users.
+>   In this module, we will learn about seven (7) Linux commands to fast track Git learning curve. This is not compulsory but recommended mostly for Windows or other platforms users (Linux and MacOS).
 
 ### What is Linux?
 
 >   Linux (/ˈliːnʊks/ (listen) LEE-nuuks or /ˈlɪnʊks/ LIN-uuks)[11] is a family of open-source Unix-like operating systems based on the Linux kernel,[12] an operating system kernel first released on September 17, 1991, by Linus Torvalds. - [Wikipedia](https://en.wikipedia.org/wiki/Linux)
 
-### Why Learning Linux?
+### Why Learning Linux? 🥌
 
 >   Simple answer is, because of **Git Bash**. 
 
@@ -126,7 +126,8 @@ Below are some of the comamnds that are acceptable and used to carry out certain
     ```bash
         cat bio.txt
     ```
-
+##  How was the exercise?
+    
 ### Exercises / TODOs
 
 1.  Navigate to <your-university> folder created before
