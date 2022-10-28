@@ -34,7 +34,7 @@
 ```markdown
     > This is my qoute.
 ```
--   Rendered as 
+-   Rendered as below
   
 > This is my qoute.
 
@@ -43,14 +43,14 @@
 ```markdown
     [Rasheed Github Page](https://github.com/Taiwrash)
 ```
--   Rendered as 
+-   Rendered as below
 [Rasheed Github Page](https://github.com/Taiwrash)
 
 4.  Image
 ```markdown
     ![Rasheed Github Profile Picture](https://avatars.githubusercontent.com/u/49725691?v=4)
 ```
--   Rendered as:
+-   Rendered as below
  
 ![Rasheed Github Profile Picture](https://avatars.githubusercontent.com/u/49725691?v=4)
 
