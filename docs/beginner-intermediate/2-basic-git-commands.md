@@ -1,8 +1,8 @@
-## Basic Git Commands
+## Basic Git Commands 🖥️🖥️🖥️
 
 >   In this module, we will learn about most used Git commands to get us basic knowledge to make our first contribution to source code.
 
-### The Commands
+### The Commands 🖥️
 
 1.  ```git help``` 
     This command list every possible commands that can be done along with different options that are availabe on Git.
@@ -27,7 +27,7 @@
     ```bash
         git config
     ```
->   Quick notice: This requires the options like (--local, --global)
+>   **Quick notice** : This requires the options like (--local, --global)
 
 5.  ```git init```
     This command creates an empty Git repository - basically a .git directory with subdirectories for objects, refs/heads, refs/tags, and template files
@@ -120,10 +120,10 @@
 
 ### Exercise
 
--   Move into the University folder created in previous module
--   Initialize a git a repository
--   Open <about-my-school.txt> file and added 5 things about your school and save
--   Add the  file to index
--   Make a final commit
+-   Move into the University folder created in previous module.
+-   Initialize a git repository.
+-   Open <about-my-school.txt> file and added 5 things about your school and save.
+-   Add the  file to index.
+-   Make a final commit.
 
 [<< Previous Module](1-basic-linux-commands.md)<============================>[Next Module >>](3-github.md)
