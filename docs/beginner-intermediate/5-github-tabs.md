@@ -18,7 +18,7 @@
 -   Issues
 >    GitHub Issues are use to track ideas, feedback, tasks, or bugs for work on GitHub.
 
-    This gives access to discussion and interactions. When a conversation in an issue is better suited for a discussion, you can convert the issue to a discussion.
+Pro tips- >This gives access to discussions and interactions. When a conversation in an issue is better suited for a discussion, you can convert the issue to a discussion.
 
 -   Pull Request
 
@@ -55,9 +55,9 @@
 
 ### Exercise
 
-1.  Create a repository with add README input checked during creation
-2.  Upload files, images using the Action tabs mark pink in the above and commit uploaded file
-3.  Click setting tab and locate delete button to delete the repository
+1.  Create a repository with add README input checked during creation.
+2.  Upload files, images using the Action tabs mark pink in the above and commit uploaded file.
+3.  Click setting tab and locate delete button to delete the repository.
 
 
 [<< Previous Module](4-git-in-vscode.md)<============================>[Next Module >>](6-mdx-conclusion.md)
