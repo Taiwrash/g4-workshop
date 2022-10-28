@@ -4,15 +4,15 @@
 
 ### What VS **Code** 
 
-This is an IDE for editing files, most time source code. **Code editing. Redefined. Free. Built on open source. Runs everywhere.**. It is powerful for many reasons. With a lot of shortcut supports
+This is an IDE (Integrated Development Environment) for editing files, most time called source code. **Code editing. Redefined. Free. Built on open source. Runs everywhere.**. It is powerful for many reasons. With a lot of shortcut supports
 
 ### Getting Started
 
 1.   Installation: [Get Download Link Here](https://code.visualstudio.com/)
 
-2.  Follow the wizard to complete installation and launch after installation.
+2.  Follow the wizard and pops up to complete installation and launch after installation.
 
-3.  VS Code quick walk through 
+3.  VS Code quick walk through! 
 
     ![Welcome Page](./vscode-pack//welcome.png)
 
@@ -24,13 +24,13 @@ This is an IDE for editing files, most time source code. **Code editing. Redefin
    
    ![source control](./vscode-pack/vscode-2.PNG)
 
-6.  To add to index, commit, pull and push to GitHub. Click on the icon located in step 4 above
+6.  To add to index, commit, pull and push to GitHub. Click on the icon located in step 4 above.
 
-7.  Click on the icon with green circle to stage or **add** a file to the index
+7.  Click on the icon with green circle to stage or **add** a file to the index.
 
-8.  Click on the icon with red circle to **commit** changes
+8.  Click on the icon with red circle to **commit** changes.
 
-9.  Click on the icon with blue circle to see more action to pull, push, add remote and others
+9.  Click on the icon with blue circle to see more action to pull, push, add remote and others.
 
     ![Step6,7,8 Illustration](./vscode-pack/vscode-3.png)
 
@@ -40,9 +40,9 @@ This is an IDE for editing files, most time source code. **Code editing. Redefin
 
 ### Exercise
 
--   Create a new folder
--   Create a new file and add anything inside
--   Create a GitHub repository
+-   Create a new folder.
+-   Create a new file and add anything inside.
+-   Create a GitHub repository.
 -   Use VS Code source control to push to GitHub
 
 [<< Previous Module](3-github.md)<============================>[Next Module >>](5-github-tabs.md)
