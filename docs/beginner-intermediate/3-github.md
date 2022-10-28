@@ -1,14 +1,14 @@
 ## GitHub
 
+### 👍👍👍👍 BIG SHOUT OUT TO GITHUB FOR SPONSORING THIS WORKSHOP  👍👍👍👍
 ```markdown
-    :+1 BIG SHOUT OUT TO GITHUB FOR SPONSORING THIS WORKSHOP 
     > Let's make some noise!
     -   Hashtags: #githubforsummit22, @GitHubEducation @GitHub @Ibn_mudathir #SUNO
 ```
 >  In this module, participants will be able to setup there GitHub account, create a repository and connect the local repository with the newly created repository and redeem their [**GITHUB STUDENT DEVELOPERS PACKS**](https://education.github.com/discount_requests/student_application?utm_source=2022-07-30-GITHUBFORSUMMIT)
 
 ###  What is GitHub
->   According to the wikipedia page, GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.
+>   According to the Wikipedia page, GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features.
 
 ### Why GitHub
 
@@ -32,7 +32,7 @@ We will be using the [magic link](https://education.github.com/discount_requests
 
 -   Step 3: The application will be review and you will receive an acceptance email
 
-### Creating a GitHub Repository
+### Creating a GitHub Repository 🔁
 
 -   [Simple Steps](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 
@@ -40,7 +40,7 @@ We will be using the [magic link](https://education.github.com/discount_requests
 
 ![Creation Stage](./vscode-pack/repo-create.png)
 
-### Connect Local Repo to GitHub Repo
+### Connect Local Repo to GitHub Repo 🚧
 
 -   Follow the instruction after creating a repo without initializing README
 
