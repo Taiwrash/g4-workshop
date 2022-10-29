@@ -1,13 +1,14 @@
 #   Getting Good at Git and GitHub (G4)
 
 
-##  Welcome to GitHub for Summit Workshop
+##  Welcome to GitHub for Summit University, Offa (SUN Offa) Workshop
 
 ![Flyer](./beginner-intermediate/vscode-pack/flyer.png)
 
 You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to start contributing.
 
- We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to **open source**, enterprises and personal projects.
+ Participants will progress from zero to intermediate knowledge and should be able to contribute to **Open Source** on personal, group, or enterprise projects.
+
 
 ### Our Goal!
 > We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to open **source**, enterprises and personal projects.
@@ -19,7 +20,7 @@ This is also a simplified form of the [documentations](https://docs.github.com/e
 ![ABOUT RASHEED](./beginner-intermediate/vscode-pack/rasheed.png)
 
 
-![Muhammad](./beginner-intermediate/vscode-pack/muh.jpg)
+![ALIYU Muhammad](./beginner-intermediate/vscode-pack/muh.jpg)
 
 ## GitHub Student Programs
 
