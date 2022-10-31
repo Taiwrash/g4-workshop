@@ -4,7 +4,7 @@
 
 ### What VS **Code** 
 
-This is an IDE (Integrated Development Environment) for editing files, most time called source code. **Code editing. Redefined. Free. Built on open source. Runs everywhere.**. It is powerful for many reasons. With a lot of shortcut supports
+This is an IDE (Integrated Development Environment) for editing files, most time called source code. **Code editing. Redefined. Free. Built on open source. Runs everywhere.**. It is effective for a variety of reasons. With numerous shortcut support
 
 ### Getting Started
 
