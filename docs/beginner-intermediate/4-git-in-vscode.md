@@ -1,10 +1,10 @@
 ## VS Code Source Control
 
->   In this module, participants will learn how to leverage VS Code source control tab to perform all tasks that can be done using git commands. **Congratulations to those who hates memorising commands ):**
+>   In this module, Participants will learn how to use the source control tab in Visual Studio(VS) Code to perform all tasks that can be done with git commands. ):**
 
 ### What VS **Code** 
 
-This is an IDE (Integrated Development Environment) for editing files, most time called source code. **Code editing. Redefined. Free. Built on open source. Runs everywhere.**. It is powerful for many reasons. With a lot of shortcut supports
+This is an IDE (Integrated Development Environment) for editing files, most time called source code. **Code editing. Redefined. Free. Built on open source. Runs everywhere.**. It is effective for a variety of reasons. With numerous shortcut support
 
 ### Getting Started
 
