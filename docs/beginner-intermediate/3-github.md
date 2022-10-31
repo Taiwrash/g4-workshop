@@ -46,7 +46,7 @@ We will be using the [magic link](https://education.github.com/discount_requests
 
     ![Connection Instruction](./vscode-pack/repo-connect.png)
 
->   Finally, after running all the commands refresh your GitHub browser
+>   Finally, after you've completed all of the commands, refresh your GitHub browser.
 
 
 [<< Previous Module](2-basic-git-commands.md)<============================>[Next Module >>](4-git-in-vscode.md)
