@@ -1,6 +1,6 @@
 ## VS Code Source Control
 
->   In this module, participants will learn how to leverage VS Code source control tab to perform all tasks that can be done using git commands. **Congratulations to those who hates memorising commands ):**
+>   In this module, Participants will learn how to use the source control tab in Visual Studio(VS) Code to perform all tasks that can be done with git commands. ):**
 
 ### What VS **Code** 
 
