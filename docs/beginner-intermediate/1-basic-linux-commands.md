@@ -10,14 +10,14 @@
 
 >   Simple answer is, because of **Git Bash**. 
 
-This is a tool is basically setup to perform all git actions. It is command line intermediate with little touch and integrations that empowers it to perform tasks beyond ordinary cmd prompts. It is popularly called **Bourne Again Shell (BASH)** which has Linux like attributes and accept most of the Linux commands.
+This tool is basically setup to perform all git actions. It is a command line intermediate with little touch and integrations that empowers it to perform tasks beyond ordinary cmd prompts. It is popularly called **Bourne Again Shell (BASH)** which has Linux like attributes and accept most of the Linux commands.
 
 ### Linux Terminologies
 -   Command
->   Commands are set of instructions that will pass into our computer to instruct and control it on what to do
+>   Commands are set of instructions that we pass into our computer to instruct and control it on what to do
 
 -   Options
->   Linux command options are used to control the output of a Linux command. Some commands over 30 options. Options are always preceed with a dash (-) and are sometimes called **flags**
+>   Linux command options are used to control the output of a Linux command. Some commands are over 30 options. Options are always preceeded with a dash (-) and are sometimes called **flags**
 
 ### Commands
 
@@ -26,7 +26,7 @@ In the field of **Human Computer Interactions**, there are different kinds of wa
 This implies,
 >   We put commands into a prompt to carry out any tasks.
 
-Below are some of the comamnds that are acceptable and used to carry out certain tasks in Linux.
+Below are some of the commands that are acceptable and used to carry out certain tasks in Linux.
 
 1.  ```cd``` commands (change directory)
     -   To navigate through the Linux files and directories
