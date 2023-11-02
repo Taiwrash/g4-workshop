@@ -1,6 +1,6 @@
 ## VS Code Source Control
 
->   In this module, participants will learn how to leverage VS Code source control tab to perform all tasks that can be done using git commands. **Congratulations to those who hates memorising commands ):**
+>   In this module, participants will learn how to leverage the VS Code source control tab to perform all tasks that can be done using git commands. **Congratulations to those who prefer not to memorize commands!**
 
 ### What VS **Code** 
 
@@ -23,6 +23,7 @@ This is an IDE (Integrated Development Environment) for editing files, most time
 5.  Locate the tab circle in red colour 
    
    ![source control](./vscode-pack/vscode-2.PNG)
+
 
 6.  To add to index, commit, pull and push to GitHub. Click on the icon located in step 4 above.
 
