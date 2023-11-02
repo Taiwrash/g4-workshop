@@ -25,6 +25,7 @@ This is an IDE (Integrated Development Environment) for editing files, most time
    ![source control](./vscode-pack/vscode-2.PNG)
 
 
+
 6.  To add to index, commit, pull and push to GitHub. Click on the icon located in step 4 above.
 
 7.  Click on the icon with green circle to stage or **add** a file to the index.
