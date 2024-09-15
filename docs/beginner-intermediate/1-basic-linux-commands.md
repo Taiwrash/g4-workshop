@@ -50,6 +50,9 @@ Below are some of the comamnds that are acceptable and used to carry out certain
 
 7.  ```diff``` commands (difference)
     -   Short for difference, the diff command compares the contents of two files line by line.
+      
+8.  ```apt-get``` commands (Install and Update)
+    -   Command used to install and update packages.
 
 ### Practice
 
