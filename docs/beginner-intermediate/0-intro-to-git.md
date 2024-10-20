@@ -4,7 +4,7 @@
 
 ###   What is Git? 
 
->   It is a free and open source softwares that helps developers tracks and manages changes in a particular files and purposely to manage collaborative development especially during **software development**.
+>   Git is a free and open source softwares that helps developers track and manage changes in a particular file and purposely to manage collaborative development especially during **software development**.
 
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. - [Git Website](https://git-scm.com/)
 
