@@ -1,6 +1,6 @@
 ## Git
 
->   In this module, we will learn a little bit about version control system (VCS) - Git, the problem its solved and the necessary things to aid our learning and usage. We will talk about how to set it up on a local machine be it MacOS, Linux or Windows.
+>   In this module, we will explore the fundamentals of Version Control Systems (VCS), with a focus on Git. We’ll dive into the problems Git solves and the essential concepts to help you effectively learn and use it. Additionally, we will guide you through setting up Git on various operating systems, including macOS, Linux, and Windows, ensuring you’re ready to start managing your projects with ease.
 
 ###   What is Git? 
 
