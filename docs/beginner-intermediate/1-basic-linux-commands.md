@@ -17,7 +17,7 @@ This is a tool is basically setup to perform all git actions. It is command line
 >   Commands are set of instructions that will pass into our computer to instruct and control it on what to do
 
 -   Options/Flags
->   Linux command options are used to control the output of a Linux command. Some commands over 30 options. Options are always preceed with a dash (-) and are sometimes called **flags**. These flags sometimes have longhand and shorthand inputs which implies the same command option, for example: ``git push --force`` is the same as ``git push -f``. NB **-f** is the shorthand for **--force**.
+>   Linux command options are used to control the output of a Linux command. Some commands over 30 options. Options are always preceed with a dash (-) and are sometimes called **flags**. These flags sometimes have longhand and shorthand inputs which implies the same command option, for example: ``git push --force`` is the same as ``git push -f``. NB: **-f** is the shorthand for **--force**.
 
 ### Commands
 
