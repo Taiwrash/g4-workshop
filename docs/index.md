@@ -7,10 +7,9 @@
 
 You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to start contributing.
 
- We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to **open source**, enterprises and personal projects.
-
 ### Our Goal!
-> We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to contributes to open **source**, enterprises and personal projects.
+> We plan to take the participants of this workshop from no knowledge or average knowledge of Git and GitHub to intermediate level and be able to make contributions to **open source**, enterprises and personal projects.
+
 
 This is also a simplified form of the [documentations](https://docs.github.com/en) to be taking in max of seven (7) days by taking a single module in a day.
 
@@ -24,7 +23,7 @@ This is also a simplified form of the [documentations](https://docs.github.com/e
 
 ### Navigation guides
 
-This projects focused on the below seven sub-sections and contain exercises at the end of every modules.
+This project is focused on the below seven sub-sections and contain exercises at the end of each module.
 
 1.  [Introduction to Git](/beginner-intermediate/0-intro-to-git.md)
 2.  [Basic Linux Commands](/beginner-intermediate/1-basic-linux-commands.md)
@@ -36,14 +35,16 @@ This projects focused on the below seven sub-sections and contain exercises at t
 
 ### Recommendations
 
-Participants are advice to take there time to understands each modules before moving to the next modules.
+Participants are advised to take their time to understand each modules before moving to the next module.
 
 ### Note to everyone
 
-> This is an open source projects, feel free to create issues and make pull request to improve the quality and help somebody to learn
+> This is an open source projects, feel free to create issues and make pull requests to improve the quality and help others to learn.
 
 ### Author Socials
 
 -   [GitHub @Taiwrash](https://github.com/Taiwrash)
+-   [Twitter @Ibn_mudathir](https://twitter.com/Ibn_mudathir)
+-   [Linkedin @Rasheed Mudasiru](https://linkedin.com/in/rasheedtaiwo)
 -   [Twitter @Taiwrash](https://x.com/taiwrash)
 -   [Linkedin @Rasheed Mudasiru](https://linkedin.com/in/rasheedtaiwo)
