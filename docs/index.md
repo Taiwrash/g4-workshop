@@ -1,9 +1,9 @@
 #   Getting Good at Git and GitHub (G4)
 
 
-##  Welcome to GitHub for Summit Workshop
+##  Welcome to VS Code Dev Day Minna 2025
 
-![Flyer](./beginner-intermediate/vscode-pack/flyer.png)
+![Flyer](./beginner-intermediate/vscode-pack/vscodedevday.png)
 
 You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to start contributing.
 
@@ -16,10 +16,7 @@ This is also a simplified form of the [documentations](https://docs.github.com/e
 
 # WHOAMI
 
-![ABOUT RASHEED](./beginner-intermediate/vscode-pack/rasheed.png)
-
-
-![Muhammad](./beginner-intermediate/vscode-pack/muh.jpg)
+![ABOUT RASHEED](./beginner-intermediate/vscode-pack/taiwrash.png)
 
 ## GitHub Student Programs
 
@@ -48,5 +45,5 @@ Participants are advice to take there time to understands each modules before mo
 ### Author Socials
 
 -   [GitHub @Taiwrash](https://github.com/Taiwrash)
--   [Twitter @Ibn_mudathir](https://twitter.com/Ibn_mudathir)
+-   [Twitter @Taiwrash](https://x.com/taiwrash)
 -   [Linkedin @Rasheed Mudasiru](https://linkedin.com/in/rasheedtaiwo)
