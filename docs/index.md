@@ -3,7 +3,7 @@
 
 ##  Welcome to GitHub for Summit Workshop
 
-![Flyer](./beginner-intermediate/vscode-pack/flyer.png)
+![Flyer](./assets/VSCode-Dev-Days-banner.jpg)
 
 You can use the [editor on GitHub](https://github.com/Taiwrash/g4-workshop/edit/main/docs/index.md) to start contributing.
 
@@ -48,5 +48,8 @@ Participants are advice to take there time to understands each modules before mo
 ### Author Socials
 
 -   [GitHub @Taiwrash](https://github.com/Taiwrash)
--   [Twitter @Ibn_mudathir](https://twitter.com/Ibn_mudathir)
+-   [Twitter @Ibn_mudathir](https://x.com/Ibn_mudathir)
 -   [Linkedin @Rasheed Mudasiru](https://linkedin.com/in/rasheedtaiwo)
+
+-   [Twitter @retzonel](https://x.com/retzonel)
+-   [Twitter @dixx_david](https://x.com/dixx_david)
